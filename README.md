@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center", padding-top="200">I'm a coding student who loves visual effects ❤️</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif?cid=790b76111fb7d7e2ad3cf154eec21e5e8b5961a8a51dd64b&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="200" src="https://media1.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif?cid=790b76111fb7d7e2ad3cf154eec21e5e8b5961a8a51dd64b&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diqouick-97&label=Profile%20views&color=0e75b6&style=flat" alt="diqouick-97" /> </p>
 
