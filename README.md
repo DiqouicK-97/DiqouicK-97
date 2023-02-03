@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thomas.d97115@gmail.com**
 
-- ⚡ Fun fact **I was Beatmaker when i had 16 yo**
+- ⚡ Fun fact **I was Beatmaker when i had 16 yo and i make contents sometimes** <a href="https://www.youtube.com/@diqouick1888" title="Image from freeiconspng.com"><img src="https://assets.dryicons.com/uploads/icon/svg/8416/f0fe6032-34ef-4b00-8c27-a8f5a0f16548.svg" alt="Youtube Channel : DiqouicK" width="40" height="40" /></a> 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
